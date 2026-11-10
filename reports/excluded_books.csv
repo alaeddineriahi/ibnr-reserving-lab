@@ -1,0 +1,344 @@
+lob,company,reason
+ppauto,Adriatic Ins Co,missing cells
+ppauto,Aegis Grp,missing cells
+ppauto,Agency Ins Co Of MD Inc,missing cells
+ppauto,Allegheny Cas Co,missing cells
+ppauto,American Modern Ins Grp Inc,missing cells
+ppauto,Antilles Ins Co,missing or zero premium
+ppauto,Armed Forces Ins Exchange,missing cells
+ppauto,Auto Club South Ins Co,missing cells
+ppauto,Baltica-Skandinavia Rein Co Of Amer,missing cells
+ppauto,Bancinsure Inc,missing cells
+ppauto,Bell United Ins Co,missing cells
+ppauto,Century-Natl Ins Co,missing cells
+ppauto,Co-Operative Ins Co,missing cells
+ppauto,Consumers Ins Usa Inc,missing cells
+ppauto,Cornerstone Natl Ins Co,missing cells
+ppauto,Federated Natl Ins Co,missing cells
+ppauto,First Amer Ins Co,missing cells
+ppauto,Fitchburg Mut Ins Co,zero first-year payments
+ppauto,Florists Mut Ins Grp,missing cells
+ppauto,Generali Us Branch,missing cells
+ppauto,Harbor Ins Co,missing cells
+ppauto,Home State Cnty Mut Ins Co,missing cells
+ppauto,Homestead Ins Co,missing cells
+ppauto,Inland Mut Ins Co,missing cells
+ppauto,Interstate Auto Ins Co Inc,missing cells
+ppauto,Lancer Ins Co,missing cells
+ppauto,Lumber Ins Cos,missing cells
+ppauto,Manhattan Re Ins Co,missing cells
+ppauto,Mennonite Mut Ins Co,missing cells
+ppauto,Middle States Ins Co Inc,missing cells
+ppauto,National American Ins Co,missing cells
+ppauto,National Automotive Ins,missing cells
+ppauto,Nevada General Ins Co,missing cells
+ppauto,New Jersey Citizens United Rcp Exch,missing cells
+ppauto,Nichido Fire & Marine Ins Co Ltd,missing cells
+ppauto,Northwest Gf Mut Ins Co,missing cells
+ppauto,Nova Cas Co,missing or zero premium
+ppauto,Occidental Fire & Cas Co Grp,missing cells
+ppauto,Ocean Harbor Cas Ins Co,missing cells
+ppauto,Overseas Partners Us Reins Co,missing cells
+ppauto,Pacific Ind Ins Co,missing cells
+ppauto,Pacific Pioneer Ins Co,missing cells
+ppauto,Pacific Specialty Ins Co,missing cells
+ppauto,Penn Miller Grp,missing cells
+ppauto,Pennsylvania Mfg Asn Ins Co,missing cells
+ppauto,Pioneer State Mut Ins Co,missing cells
+ppauto,Protective Ins Grp,missing cells
+ppauto,San Antonio Reins Co,missing cells
+ppauto,Seminole Cas Ins Co,missing cells
+ppauto,Southern Group Ind Inc,missing cells
+ppauto,Southern Mut Ins Co,missing cells
+ppauto,Southland Lloyds Ins Co,missing cells
+ppauto,Springfield Fire & Cas Co,missing cells
+ppauto,Star Ins Grp,missing cells
+ppauto,Sterling Ins Co,missing cells
+ppauto,Usauto Ins Co,missing cells
+ppauto,Vanliner Ins Co,missing cells
+ppauto,Wea Prop & Cas Ins Co,missing cells
+ppauto,Wellington Ins Co,missing cells
+comauto,Aegis Grp,missing cells
+comauto,Alliance Mut Ins Co,zero first-year payments
+comauto,American Hallmark Ins Co Of TX,missing cells
+comauto,American Mining Ins Co Inc,missing cells
+comauto,American Modern Ins Grp Inc,missing cells
+comauto,American Sterling Ins Co,missing cells
+comauto,American Vehicle Ins Co,missing cells
+comauto,Amerisafe Grp,missing cells
+comauto,Amguard Norguard & Eastguard Grp,missing cells
+comauto,Atlantic Cas Ins Co,missing cells
+comauto,Bancinsure Inc,missing cells
+comauto,Buckeye Ins Grp,missing cells
+comauto,California Cas Grp,missing cells
+comauto,Capacity Ins Co,missing cells
+comauto,Casco Ind Co,missing cells
+comauto,Catholic Relief Ins Co Of Amer,missing cells
+comauto,Co-Operative Ins Co,missing cells
+comauto,Commercial Risk Re-Ins Co,missing cells
+comauto,Contractors Bonding & Ins Co,missing cells
+comauto,Cooperative Mut Ins Co,missing cells
+comauto,Daily Underwriters Of Amer,missing cells
+comauto,Dowa Fire & Marine Ins Co Ltd Us Br,missing cells
+comauto,Elevators Mut Ins Co,missing cells
+comauto,Evergreen USA RRG Inc,missing cells
+comauto,FM Global,missing cells
+comauto,Farmers Mtl Hail Ins Co Of Ia Grp,missing cells
+comauto,Farmers Union Mut Ins Co,missing cells
+comauto,Federated Natl Ins Co,missing cells
+comauto,First Amer Ins Co,missing cells
+comauto,First American Specilaty Ins Co,missing cells
+comauto,Generali Us Branch,missing cells
+comauto,German Mut Ins Co,missing cells
+comauto,Gramercy Ins Co,missing cells
+comauto,Health Care Ind Inc,missing cells
+comauto,Home State Cnty Mut Ins Co,missing cells
+comauto,Housing & Redevelopment Ins Exch,missing cells
+comauto,Housing Authority Rrg Inc,missing cells
+comauto,Hyundai Marine & Fire Ins Co Ltd,missing cells
+comauto,Lebanon Mut Ins Co,missing cells
+comauto,Maine Mut Fire Ins Co,missing cells
+comauto,Martingale Natl Ins Co,missing cells
+comauto,Mennonite Mut Ins Co,missing cells
+comauto,Middle States Ins Co Inc,missing cells
+comauto,Midstates Rein Corp,missing cells
+comauto,Midwest Family Mut Ins Co,missing cells
+comauto,New York Marine & General Ins Co,missing cells
+comauto,New York Municipal Ins Reciprocal,missing cells
+comauto,Nichido Fire & Marine Ins Co Ltd,missing cells
+comauto,Nonprofits Ins Assn Interins,missing cells
+comauto,Nova Cas Co,missing cells
+comauto,Omega Ins Co,missing cells
+comauto,Overseas Partners Us Reins Co,missing cells
+comauto,Pacific Ind Ins Co,missing cells
+comauto,Pacific Specialty Ins Co,missing cells
+comauto,Paratransit RRG Grp Ins Co,missing cells
+comauto,Pioneer State Mut Ins Co,missing cells
+comauto,Proformance Ins Co (The),missing cells
+comauto,Public Underwriters Grp,missing cells
+comauto,Samsung Fire & Marine Ins Co Ltd,missing cells
+comauto,San Antonio Reins Co,missing cells
+comauto,Service Ins Co,missing cells
+comauto,Southern Group Ind Inc,missing cells
+comauto,Southwest General Ins Co,missing cells
+comauto,Texas Hospital Ins Exch,missing cells
+comauto,Transguard Ins Co Of Amer Inc,missing cells
+comauto,Triangle Ins Co Inc,missing cells
+comauto,Underwriters At Lloyds London,missing cells
+comauto,United Grp Captive Ins Co,missing cells
+comauto,Wellington Ins Co,missing cells
+comauto,Wolverine Mut Ins Co,missing cells
+comauto,Yel Co Ins,missing cells
+wkcomp,Agway Ins Co,missing cells
+wkcomp,American Contractors Ins Grp,missing cells
+wkcomp,American Mining Ins Co Inc,missing cells
+wkcomp,Beacon Mut Ins Co,missing cells
+wkcomp,Benchmark Ins Co,missing cells
+wkcomp,British Amer Ins Co,missing cells
+wkcomp,Buckeye Ins Grp,missing cells
+wkcomp,Canal Ins Co Grp,missing cells
+wkcomp,Capitol Transamerican Grp,missing cells
+wkcomp,Care West Ins Co,missing cells
+wkcomp,Catholic Relief Ins Co Of Amer,missing cells
+wkcomp,Chicago Mut Ins Co,missing cells
+wkcomp,Colorado Farm Bureau Mut Ins Co,missing cells
+wkcomp,Commerce Grp Inc,missing cells
+wkcomp,Commercial Risk Re-Ins Co,missing cells
+wkcomp,Continental Natl Ind Co,missing cells
+wkcomp,Diamond Ins Co,missing cells
+wkcomp,Discovery Ins Co,missing cells
+wkcomp,Dorinco Rein Co,missing cells
+wkcomp,Dowa Fire & Marine Ins Co Ltd Us Br,missing cells
+wkcomp,Employers Security Ins Co,missing cells
+wkcomp,FL Farm Bureau Grp,missing cells
+wkcomp,FM Global,missing cells
+wkcomp,Farm Bureau Grp,missing cells
+wkcomp,Farmers Alliance Mut & Affiliates,missing cells
+wkcomp,Financial Cas & Surety Inc,missing cells
+wkcomp,First Mercury Ins Co,missing cells
+wkcomp,First Nonprofit Mut Ins Co,missing cells
+wkcomp,Firstcomp Ins Co,missing cells
+wkcomp,Fitchburg Mut Ins Co,missing cells
+wkcomp,Fremont Mut Ins Co,missing cells
+wkcomp,GA Resaurant Mut Captive Ins Co,missing cells
+wkcomp,Generali Us Branch,missing cells
+wkcomp,Goldstreet Ins Co,missing cells
+wkcomp,Goodville Mut Cas Co,missing cells
+wkcomp,Hawaii Employers Mut Ins Co,missing cells
+wkcomp,Health Care Ind Inc,missing cells
+wkcomp,Homestead Ins Co,missing cells
+wkcomp,Horace Mann Grp,missing cells
+wkcomp,Hyundai Marine & Fire Ins Co Ltd,missing cells
+wkcomp,Kentucky Farm Bureau Mut Ins Grp,missing cells
+wkcomp,Keystone Ins Grp,missing cells
+wkcomp,Louisiana Pest Control Ins Co,missing cells
+wkcomp,MHA Ins Co,missing cells
+wkcomp,MO Employers Mut Ins Co,missing cells
+wkcomp,Mada Ins Exchange,missing cells
+wkcomp,Mapfre Reins Corp,missing cells
+wkcomp,Maple Valley Mut Ins Co,missing cells
+wkcomp,Martingale Natl Ins Co,missing cells
+wkcomp,Midstates Rein Corp,missing cells
+wkcomp,Midwest Family Mut Ins Co,missing cells
+wkcomp,Millers Capital Ins Co,missing cells
+wkcomp,NHC Ins Co,missing cells
+wkcomp,NLC Mut Ins Co,missing cells
+wkcomp,Omega Ins Co,missing cells
+wkcomp,Pacific Ind Ins Co,missing cells
+wkcomp,Patrons Grp,missing cells
+wkcomp,Petroleum Cas Co,missing or zero premium
+wkcomp,Preferred Mut Ins Co,missing cells
+wkcomp,Rainier Ins Co,missing cells
+wkcomp,Red Shield Ins Co,missing cells
+wkcomp,Rockford Mut Ins Co,missing cells
+wkcomp,Samsung Fire & Marine Ins Co Ltd,missing cells
+wkcomp,Shelter Ins Cos Grp,missing cells
+wkcomp,Springfield Ins Co Inc,missing cells
+wkcomp,Toa-Re Ins Co Of Amer,missing cells
+wkcomp,Tower Ins Co Of NY,missing cells
+wkcomp,Transguard Ins Co Of Amer Inc,missing cells
+wkcomp,Transportation Cas Ins Co,missing cells
+wkcomp,Umialik Ins Co,missing cells
+wkcomp,Underwriters At Lloyds London,missing cells
+wkcomp,Wisconsin American Mut Ins Co,missing cells
+wkcomp,Wisconsin Cnty Mut Ins Corp,missing cells
+wkcomp,Zurich Ins (Guam) Inc,missing cells
+othliab,Adriatic Ins Co,missing cells
+othliab,Aegis Grp,missing cells
+othliab,Agri General Ins Co,missing cells
+othliab,Agway Ins Co,missing cells
+othliab,American Agricultural Ins Co,missing cells
+othliab,American Contractors Ins Grp,zero first-year payments
+othliab,American Mining Ins Co Inc,missing cells
+othliab,American Sterling Ins Co,missing cells
+othliab,Amguard Norguard & Eastguard Grp,missing cells
+othliab,Antilles Ins Co,missing cells
+othliab,Atlantic Cas Ins Co,missing cells
+othliab,Auto Club Ins Assn,missing cells
+othliab,Baltica-Skandinavia Rein Co Of Amer,missing cells
+othliab,Bancinsure Inc,missing cells
+othliab,Bedford Grange Mut Ins Co,missing cells
+othliab,Buckeye Ins Grp,zero first-year payments
+othliab,California Cas Grp,missing cells
+othliab,Camico Mut Ins Co,missing cells
+othliab,Campmed Cas & Ind Co Inc MD,missing cells
+othliab,Canal Ins Co Grp,missing cells
+othliab,Capacity Ins Co,missing cells
+othliab,Carolina Farmers Mut Ins Co,missing cells
+othliab,Catholic Relief Ins Co Of Amer,missing cells
+othliab,Central Co-Operative Ins Co,missing cells
+othliab,Chicago Mut Ins Co,missing cells
+othliab,Cities & Villages Mut Ins Co,missing cells
+othliab,College Liability Ins Co Ltd RRG,zero first-year payments
+othliab,Commercial Risk Re-Ins Co,missing cells
+othliab,Conemaugh Valley Mut Ins Co,missing cells
+othliab,Continental Natl Ind Co,missing cells
+othliab,Contractors Bonding & Ins Co,missing cells
+othliab,Controlled Risk Ins Co Of VT Inc,missing cells
+othliab,Crusader Ins Co,missing cells
+othliab,Cumberland Cas & Surety Co,missing cells
+othliab,Daily Underwriters Of Amer,missing cells
+othliab,Dorinco Rein Co,missing cells
+othliab,Dowa Fire & Marine Ins Co Ltd Us Br,missing cells
+othliab,Eastern Dentists Ins Co RRG,missing cells
+othliab,Elevators Mut Ins Co,missing cells
+othliab,Everett Cash Mut Ins Co,zero first-year payments
+othliab,Evergreen USA RRG Inc,missing cells
+othliab,Farmers Fire Ins Co,missing cells
+othliab,Farmers Home Mut Fire Ins Co,missing cells
+othliab,Farmers Mut Ins Co,missing cells
+othliab,Finger Lakes Fire & Cas Ins Co,missing cells
+othliab,First American Specilaty Ins Co,missing cells
+othliab,Florida Lawyers Mut Ins Co,missing cells
+othliab,Florists Mut Ins Grp,missing cells
+othliab,Frederick Mut Ins Co,missing cells
+othliab,Fulmont Mut Ins Co,missing cells
+othliab,General Eastern Ski Ins RRG Inc,missing cells
+othliab,Generali Us Branch,missing cells
+othliab,Gibraltar Natl Ins Co,missing cells
+othliab,Gold Medal Ins Co,missing cells
+othliab,Golden Bear Ins Co,missing cells
+othliab,Gramercy Ins Co,missing cells
+othliab,Halifax Mut Ins Co,missing cells
+othliab,Hanys Ins Co,missing cells
+othliab,Harco Natl Ins Co,missing cells
+othliab,Health Care Ind Inc,missing cells
+othliab,Housing Authority Prop Ins Inc,missing cells
+othliab,Hyundai Marine & Fire Ins Co Ltd,missing cells
+othliab,IL State Bar Assoc Mut Ins Co,missing cells
+othliab,Juniata Mut Ins Co,missing cells
+othliab,Kansas Mut Ins Co,missing cells
+othliab,Lawyers Mut Liab Ins Co Of NC,missing cells
+othliab,Leatherstocking Coop Ins  Co,missing cells
+othliab,Lg Ins Co Ltd Us Branch,missing cells
+othliab,Louisiana Farm Bureau Mut Ins Co,missing cells
+othliab,Louisiana Pest Control Ins Co,missing cells
+othliab,Lutheran Mut Fire Ins Co,missing cells
+othliab,MHA Ins Co,missing cells
+othliab,Madison Mut Ins Co,missing cells
+othliab,Mapfre Reins Corp,missing cells
+othliab,Maple Valley Mut Ins Co,missing cells
+othliab,Medical Mut Ins Co Of ME,missing cells
+othliab,Mennonite Mut Ins Co,missing cells
+othliab,Mid-Continent Ins Co,missing cells
+othliab,Mid-Hudson Co-Operative Ins Co,missing cells
+othliab,Middle States Ins Co Inc,missing cells
+othliab,Midstate Mut Ins Co,missing cells
+othliab,Mississippi Farm Bureau Mut Ins Co,missing cells
+othliab,Missouri Valley Mut Ins Co,missing cells
+othliab,Mlba Limited Liability Pool,missing cells
+othliab,Montour Mut Ins Co,missing cells
+othliab,Motor Club Ins Assoc,missing cells
+othliab,Mountain West Farm Bu Mut Ins Co,missing cells
+othliab,Mutual Ins Co Of Lehigh Cnty,zero first-year payments
+othliab,NCMIC Ins Co,missing cells
+othliab,National American Ins Co,missing cells
+othliab,National Catholic RRG,missing cells
+othliab,National Fire & Cas Co,missing cells
+othliab,Nazareth Mut Ins Co,missing cells
+othliab,New Jersey Manufacturers Grp,missing cells
+othliab,New York Municipal Ins Reciprocal,missing cells
+othliab,Nichido Fire & Marine Ins Co Ltd,missing cells
+othliab,Nonprofits Ins Assn Interins,missing cells
+othliab,North American Ind Co,missing cells
+othliab,North Sea Ins Co,missing cells
+othliab,Occidental Fire & Cas Co Grp,missing cells
+othliab,Omega Ins Co,missing cells
+othliab,Ophthalmic Mut Ins Co RRG,missing cells
+othliab,Oswego County Mut Ins Co,missing cells
+othliab,Otsego Mut Fire Ins Co,missing cells
+othliab,Overseas Partners Us Reins Co,missing cells
+othliab,Pacific Ind Ins Co,missing cells
+othliab,Patrons Mut Fire Assoc Of Nw PA,missing cells
+othliab,Philadelphia CBSP Grp,missing cells
+othliab,Philadelphia Ind Ins Co & Aff,missing cells
+othliab,Physicians Recip Insurers,missing cells
+othliab,Preferred Professional Ins Co,missing cells
+othliab,Proformance Ins Co (The),missing cells
+othliab,Protection Mut Ins Co Of Littlestown,missing cells
+othliab,Protective Ins Grp,missing cells
+othliab,Pymatuning Mut Fire Ins Co,missing cells
+othliab,Rainier Ins Co,missing cells
+othliab,Residence Mut Grp,missing cells
+othliab,Samsung Fire & Marine Ins Co Ltd,missing cells
+othliab,Scpie Indemnity Co,missing cells
+othliab,South Carolina Farm Bureau Mut,missing cells
+othliab,Southern MI Mut Ins Co,missing cells
+othliab,Southern Mut Church Ins Co,missing cells
+othliab,Southern Mut Ins Co,missing cells
+othliab,Standard Cas Co,missing cells
+othliab,State Volunteer Mut Ins Co,missing cells
+othliab,States Self-Insurers RRG,missing cells
+othliab,Sublimity Ins Co,missing cells
+othliab,Toa-Re Ins Co Of Amer,missing cells
+othliab,Tower Ins Co Of NY,missing cells
+othliab,Traders Ins Co,missing cells
+othliab,Transguard Ins Co Of Amer Inc,missing cells
+othliab,Tri-State Consumer Ins Co,missing cells
+othliab,United Americas Ins Co,missing cells
+othliab,United Educators Ins RRG Inc,missing cells
+othliab,Universal Surety Grp,missing cells
+othliab,Utica First Ins Co,missing cells
+othliab,Vanliner Ins Co,missing cells
+othliab,Virginia Mut Ins Co,missing cells
+othliab,Wi Lawyers Mut Ins Co,missing cells
